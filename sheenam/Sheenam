@@ -1,0 +1,37 @@
+SENTIMENT ANALYSES
+Introduction
+
+SENTIMENTAL ANALYSES OF PROUCTS INCLUDES:
+
+
+REVIEW 
+PREPARATION OF DATA
+CLASSIFICATION OF SENTIMENTS 
+OUTCOMES
+This is one of the most recent tasks that has gain a lot of popularity to review the online products such as myntra.com or amazon.com. This just analysed the product and give detailed description of the product.
+There are lot of cons of reviewing the products as sentiments means judgement to thought it may vary from person to person.
+As we assured the quality of products by just rating as it may be good for other one.
+
+BACKGROUND:
+
+
+
+Sentiment analysis can be divided into three phases such as positive negative or neutral. but nowadays these rating can be based on stars like 5 4 to take the review. It analyses or mine the data by giving the idea   the 'better' and 'worse' sentiments as a positive and negative respectively. 
+In this contemporary due to globalisation and evolution of ecommerce masses can give their sentiments regarding the products or things they purchased from any online platforms. Thus, this paves the way to masses to have a better decision to purchase the products. This growing data is becoming quite helpful to analysis from the big data. The most paramount factor this sentiment analysis is that it assists to identify the polarity of data and to classify them. 
+As sentiment analysis is a text-based analysation of the data no doubt there are some challenges in order to know the polarity of data, but this will result into better outcome later. 
+ 
+PURPOSE:
+The purpose of sentiment analysis is that it helps to
+ escalate the customer service 
+ to determine the market strategies
+improve customer satisfaction
+to understand the review of customer
+to improve the quality of products
+check the progress comparing competitors. (Baba, 2015)
+References
+Anon., n.d. [Online] 
+Available at: https://medium.com/analytics-vidhya/text-mining-with-r-d5606b3d7bec#:~:text=%20Text%20Mining%20with%20R%20%201%20Word,of%20Sentiment%20Analysis%20using%20the%20tidytext...%20More%20
+[Accessed 6 july 2020].
+Baba, A., 2015. linked in. [Online] 
+Available at: https://www.linkedin.com/pulse/importance-sentiment-analysis-social-media-christine-da
+[Accessed 17 march 2015].
